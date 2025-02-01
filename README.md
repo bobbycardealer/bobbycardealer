@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  ![Image Alt][([https://raw.githubusercontent.com/bobbycardealer/bobbycardealer/main/image.jpg](https://github.com/bobbycardealer/bobbycardealer/blob/main/image.jpg))](https://github.com/bobbycardealer/bobbycardealer/blob/main/image.jpg)
+  ![Image Alt][(https://github.com/bobbycardealer/bobbycardealer/blob/main/image.jpg)
 </div>
 
 ###
