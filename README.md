@@ -58,4 +58,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">agrantnmac@gmail.com</tspan>
-<tspan x="390"
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">github.com/andrewgrantii</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">linkedin.com/in/andrewgrantii</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">twitter.com/andrewgrantii</tspan>
+</text>
+</svg>
