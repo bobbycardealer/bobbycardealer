@@ -1,4 +1,5 @@
-![logo](https://github.com/bobbycardealer/bobbycardealer/blob/main/image.jpg)
+<div align="center">
+  <img src="https://github.com/bobbycardealer/bobbycardealer/blob/main/image.jpg" alt="logo">
 </div>
 
 ###
