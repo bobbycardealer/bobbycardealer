@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  ![a building](https://github.com/bobbycardealer/bobbycardealer/raw/main/image.jpg)
+ ![a building](https://raw.githubusercontent.com/bobbycardealer/bobbycardealer/main/image.jpg)
 </div>
 
 ###
