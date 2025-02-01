@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  ![alt text](https://github.com/bobbycardealer/bobbycardealer/img/image.gif?raw=true)
+  ![alt text](https://github.com/bobbycardealer/bobbycardealer/image.png?raw=true)
 </div>
 
 ###
