@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">Hewuuu >.< 👋! Im just a random Femboy chilling on GitHub</h6>
+<h6 align="center">Hewuuu >.< 👋! Im just a random Femboy chilling on GitHub</h6>
 
 ###
 
