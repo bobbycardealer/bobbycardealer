@@ -1,6 +1,4 @@
-<div align="center">
-  <div align="center">
-   ![logo](https://github.com/bobbycardealer/bobbycardealer/blob/main/image.jpg)
+![logo](https://github.com/bobbycardealer/bobbycardealer/blob/main/image.jpg)
 </div>
 
 ###
